@@ -15,7 +15,6 @@ import vo.OrderTableVO;
 public class OrderTableDAO {
 
 	// 1.변수 선언
-
 	String driver = DbProperties.getDriver();
 	String url = DbProperties.getUrl();
 	String user = DbProperties.getUser();
